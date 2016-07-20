@@ -4,7 +4,11 @@
     "repositoryName": "tamakinkun.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "tamakinkun diary"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
