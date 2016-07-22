@@ -5,10 +5,11 @@
     "branch": "master"
   },
   "site": {
-    "title": "tamakinkun diary"
+    "title": "tamakinkun diary",
+    "description": "ログ的に書くので時系列で下の行ほど新しい"
   },
   "socialnetwork": {},
   "theme": {
-    "name": "casper"
+    "name": "ghostium"
   }
 }
