@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tamakinkun diary]]></title><description><![CDATA[ログ的に書くので時系列で下の行ほど新しい]]></description><link>https://tamakinkun.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 27 Jul 2016 22:32:02 GMT</lastBuildDate><atom:link href="https://tamakinkun.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[2016-07-27]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tamakinkun diary]]></title><description><![CDATA[ログ的に書くので時系列で下の行ほど新しい]]></description><link>https://tamakinkun.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 28 Jul 2016 12:09:59 GMT</lastBuildDate><atom:link href="https://tamakinkun.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[2016-07-28]]></title><description><![CDATA[<div class="sect1">
+<h2 id="__">仕事</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>PHPでOracleに繋ぐという地獄みたいな案件の技術調査中。</p>
+</div>
+<div class="paragraph">
+<p>PHPのFrameworkってフルスタックのでかいのしか良いのなさ気で、苦労する未来しか見えない…</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___2">ゲーム</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>社内からちまちまポケモンGOをしている。</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___3">いろいろ</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>きょうの晩ごはんなににするか考えてる。</p>
+</div>
+<div class="paragraph">
+<p>冷蔵庫にあるのが、納豆、豆腐、ギョニソくらいしかなく、それ以外だと冷や麦とカップラーメンになる。</p>
+</div>
+<div class="paragraph">
+<p>できれば買い物は明日までしたくないので、納豆、豆腐、ギョニソの三種の神器になりそう。</p>
+</div>
+<div class="paragraph">
+<p>本日の晩ごはん、納豆、豆腐、ギョニソ、きゅうりの酢の物でした。</p>
+</div>
+</div>
+</div>]]></description><link>https://tamakinkun.github.io/2016/07/28/2016-07-28.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/07/28/2016-07-28.html</guid><pubDate>Thu, 28 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-07-27]]></title><description><![CDATA[<div class="sect1">
 <h2 id="__">仕事</h2>
 <div class="sectionbody">
 <div class="paragraph">
