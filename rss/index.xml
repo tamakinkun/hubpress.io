@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tamakinkun diary]]></title><description><![CDATA[ログ的に書くので時系列で下の行ほど新しい]]></description><link>https://tamakinkun.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 13 Aug 2016 11:00:19 GMT</lastBuildDate><atom:link href="https://tamakinkun.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[2016-08-12]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tamakinkun diary]]></title><description><![CDATA[ログ的に書くので時系列で下の行ほど新しい]]></description><link>https://tamakinkun.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 15 Aug 2016 07:25:18 GMT</lastBuildDate><atom:link href="https://tamakinkun.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[2016-08-14]]></title><description><![CDATA[<div class="sect1">
+<h2 id="__">仕事</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>休みですんで…</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___2">ゲーム</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>区役所に用事あったんで行ったら区役所がジムだったので待ってる間にジム戦（トレーニング）やってた。</p>
+</div>
+<div class="paragraph">
+<p>用事終わって外でたらいかにもってひとがスマホいじりながら座ってたので、ぼくも気をつけようと思った…</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___3">いろいろ</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>マイナンバーの受けとりで区役所行ってきた。</p>
+</div>
+<div class="paragraph">
+<p>仕事柄、セキュリティがどうなってるのかとかどんなソフト使ってるのか興味あったのでいろいろみてたんだけど、これセキュリティ的にどうなんかなあってのがいくつか。</p>
+</div>
+<div class="paragraph">
+<p>まず、マイナンバー受け取るとこは仕切りになってて隣の席はみえないようになってるんだけども、前のほうはバックヤードって感じで普通にマイナンバーの登録ソフトが立ち上がってて、しかも丸見え。</p>
+</div>
+<div class="paragraph">
+<p>受け取る前に身分証明書をコピー取られるんだけども、その時の照合かなんかでマイナンバーのソフト（タイトル忘れちゃったけど、たしか住民登録なんちゃらとかってタイトルで背景が薄緑の行政かなんかのソフトでよくある感じのやつ）でそのひとのマイナンバーカード表示させて顔照合させる（これは目視でやってた）んだけど、まじで丸見えで大丈夫なんかなと思った。</p>
+</div>
+<div class="paragraph">
+<p>あとは普通に操作してるとこ丸見えなので、予約者のリスト表示させるとき氏名と多分マイナンバーと電話番号？かなんかの数字らしきものが表示してあるので、これ目がいい人なら見えちゃうんだけど大丈夫なんかなと思ったけど、めんどくさいことになりそうなので知らないふりしてた。</p>
+</div>
+<div class="paragraph">
+<p>というわけで、マイナンバー受け取るときちょっと注意してみてみるといいかもしれないですね。</p>
+</div>
+<div class="paragraph">
+<p>まあマイナンバーは変えられるし、変えたときカードも再発行で1000円位かかりますとか言われたので、知られたところでどうでもいいってことなんでしょうかね。</p>
+</div>
+<div class="paragraph">
+<p>あとはちょっと体調良くなかったので早めに寝ました。おわり。</p>
+</div>
+</div>
+</div>]]></description><link>https://tamakinkun.github.io/2016/08/15/2016-08-14.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/08/15/2016-08-14.html</guid><pubDate>Mon, 15 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-08-12]]></title><description><![CDATA[<div class="sect1">
 <h2 id="__">仕事</h2>
 <div class="sectionbody">
 <div class="paragraph">
@@ -196,76 +243,7 @@
 <p>きょうは帰ってから肉じゃが作ります！！！！！</p>
 </div>
 </div>
-</div>]]></description><link>https://tamakinkun.github.io/2016/08/11/2016-08-10.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/08/11/2016-08-10.html</guid><pubDate>Thu, 11 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-08-09]]></title><description><![CDATA[<div class="sect1">
-<h2 id="__">仕事</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>客先から回答返ってこないのでぶっちゃけひまなので、次の案件の環境整備中。</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="___2">ゲーム</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>FFの新しいやつが9/30に出るらしいんだけど、PS4買わないとできないのでどうしようかなと。</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="___3">いろいろ</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>今年入社の新人らが売られていく。</p>
-</div>
-<div class="paragraph">
-<p>この業界だとよくあることなんだけど、新人で入って教える側も教わる側も理解してるんだかしてないんだかわからんままOJT終わってそのまま客先常駐の案件に放り込まれてそこで仕事覚えて戻ってきたと思ったらまた新たな常駐案件に放り込まれるという感じ。</p>
-</div>
-<div class="paragraph">
-<p>だいたいは4～6月まで研修して7月から案件決まるまでOJTといえば聞こえは良いけど要は雑用して、案件決まったらいってらっしゃいになるので、ぶっちゃけ教えたところで客先の案件によってはまったく無意味なことになる。</p>
-</div>
-<div class="paragraph">
-<p>新人は派遣契約で客先常駐することになるわけだけど、逆に言えば一発逆転の可能性もある。</p>
-</div>
-<div class="paragraph">
-<p>要は、客先で気に入られて引きぬかれてそこの正社員なりプロパーなりになってしまうことなんだけど、新人だと社会をよく知らないもんだから変に自社に帰属意識あって断ったりして、何年かして後悔するってのを何回もみてきてる。</p>
-</div>
-<div class="paragraph">
-<p>本人の自由なので戻ってくんなよとはいえないのでアレなんだけど、まじでこの社会構造は早々に滅んでほしい。</p>
-</div>
-<div class="paragraph">
-<p>朝食の件。</p>
-</div>
-<div class="paragraph">
-<p>ゆでたまご2個食べるというソリューションにした。</p>
-</div>
-<div class="paragraph">
-<p>タンパク質多いし10個で200円くらいだし、簡単に作る方法みつけたのでこれでやってみようかなと。</p>
-</div>
-<div class="paragraph">
-<p>ゆでたまご簡単作り方</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>鍋に2cmくらい水入れて沸騰させる</p>
-</li>
-<li>
-<p>たまご入れて2分くらい茹でる</p>
-</li>
-<li>
-<p>火を止めて15分くらいほったらかす</p>
-</li>
-<li>
-<p>その間にお風呂はいる</p>
-</li>
-<li>
-<p>できている！！！！</p>
-</li>
-</ul>
-</div>
-</div>
-</div>]]></description><link>https://tamakinkun.github.io/2016/08/09/2016-08-09.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/08/09/2016-08-09.html</guid><pubDate>Tue, 09 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-08-08]]></title><description><![CDATA[<div class="sect1">
+</div>]]></description><link>https://tamakinkun.github.io/2016/08/11/2016-08-10.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/08/11/2016-08-10.html</guid><pubDate>Thu, 11 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-08-08]]></title><description><![CDATA[<div class="sect1">
 <h2 id="__">仕事</h2>
 <div class="sectionbody">
 <div class="paragraph">
@@ -760,48 +738,7 @@
 <p>ただ、徒歩7分くらいのとこなのですごい雨とか降ってたら行かないかな…</p>
 </div>
 </div>
-</div>]]></description><link>https://tamakinkun.github.io/2016/07/25/2016-07-24.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/07/25/2016-07-24.html</guid><pubDate>Mon, 25 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-07-22]]></title><description><![CDATA[<div class="sect1">
-<h2 id="__">仕事</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>どこぞのお役所がOfficeのめちゃめちゃ古いバージョンを使い続けるのですが、そのおかげでメンテの仕事がもらえるというのはあるんだけどOfficeの謎すぎるバグが大杉連太郎になっててブチ切れながら粛々と改良を加えている日々です。</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="___2">ゲーム</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>世界樹の迷宮５がおもしろい！</p>
-</div>
-<div class="paragraph">
-<p>体験版なので取説の類がないので手探り状態でやってるんだけど、たぶん買います！</p>
-</div>
-<div class="paragraph">
-<p>とか思ってたらポケモンGoが配信されたので、Ingressやってた身としてはやらなくてはならない（使命感）</p>
-</div>
-<div class="paragraph">
-<p>ポケモンやってみたけど、首都東京のビジネス街である日本橋をうろうろしてもまったく野生のポケモンがみあたらなかったので、ぼくのポケモンバグってますんで…って思ったけど、立ち止まってほっといたら野生のポケモンが画面に出てきた！</p>
-</div>
-<div class="paragraph">
-<p>とりあえず社内でたまにチェックしてとかやって30匹くらいげっと。</p>
-</div>
-<div class="paragraph">
-<p>明日とか近所ウロウロしていっぱいポケモンげっとだぜ！</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="___3">いろいろ</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>引っ越したので証券会社とか銀行とかの住所変更届を粛々と処理中。</p>
-</div>
-<div class="paragraph">
-<p>あときょうは金ローでバケモノの子やるので早く帰る予定。</p>
-</div>
-</div>
-</div>]]></description><link>https://tamakinkun.github.io/2016/07/22/2016-07-22.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/07/22/2016-07-22.html</guid><pubDate>Fri, 22 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-07-21]]></title><description><![CDATA[<div class="sect1">
+</div>]]></description><link>https://tamakinkun.github.io/2016/07/25/2016-07-24.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/07/25/2016-07-24.html</guid><pubDate>Mon, 25 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-07-21]]></title><description><![CDATA[<div class="sect1">
 <h2 id="__">仕事</h2>
 <div class="sectionbody">
 <div class="paragraph">
