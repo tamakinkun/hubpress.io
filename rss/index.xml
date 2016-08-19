@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tamakinkun diary]]></title><description><![CDATA[ログ的に書くので時系列で下の行ほど新しい]]></description><link>https://tamakinkun.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 17 Aug 2016 23:54:09 GMT</lastBuildDate><atom:link href="https://tamakinkun.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[2016-08-17]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tamakinkun diary]]></title><description><![CDATA[ログ的に書くので時系列で下の行ほど新しい]]></description><link>https://tamakinkun.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 19 Aug 2016 08:19:08 GMT</lastBuildDate><atom:link href="https://tamakinkun.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[2016-08-19]]></title><description><![CDATA[<div class="sect1">
+<h2 id="__">仕事</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>あいかわらずHTMLでシコシコ画面作成の日々。</p>
+</div>
+<div class="paragraph">
+<p>モック作ってる最中ですらいやな予感しかしないシステムになりそうで、もう地獄しか見えない。</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___2">ゲーム</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>会社行き帰りのポケモンGOのみ！</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___3">いろいろ</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>引っ越して初の一ヶ月フルで使ったガス代が来たんだけど、めちゃめちゃ安くて困惑してる…</p>
+</div>
+<div class="paragraph">
+<p>2㎥で900円ちょいで、前に住んでたとこだとだいたい1500円くらいだったので、なんでこんなに安いのかわからない…</p>
+</div>
+<div class="paragraph">
+<p>まえはお風呂だけガスで基本シャワーしか使ってなかったんだけど、6㎥も使ってたことになっててどういうことなのか。</p>
+</div>
+<div class="paragraph">
+<p>いまはガスコンロは基本毎日使ってて、それ以外はシャワー、あとは5日間ほど実家に帰ってたけど、それでもおそらく通常は3㎥くらいしか使わないくらいという計算になる。</p>
+</div>
+<div class="paragraph">
+<p>電気代もなんかちょっと安くなった気がするし。</p>
+</div>
+<div class="paragraph">
+<p>ざっくり多めに計算した光熱費が</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>電気代 3500円くらい</p>
+</li>
+<li>
+<p>ガス代 1500円くらい</p>
+</li>
+<li>
+<p>水道代 3500円くらい（2ヶ月毎）</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>なので、ざっくり7000円くらい。</p>
+</div>
+<div class="paragraph">
+<p>多めに計算してるので、通常だと6000円ちょいとかのはず。</p>
+</div>
+<div class="paragraph">
+<p>夏にエアコン入れたとしても、1万いかないくらいということになる。</p>
+</div>
+<div class="paragraph">
+<p>電気代はTVがタイムシフトじゃなきゃあと1000円くらい安くなるはずなんだけど、タイムシフト便利すぎてこれは無理すぎる。</p>
+</div>
+<div class="paragraph">
+<p>あとは家のネット代をどうにかしたいんだけど、WiMAXクソだし、MVNOで賄うのも無理なんでこれはしょうがないかなあ。</p>
+</div>
+</div>
+</div>]]></description><link>https://tamakinkun.github.io/2016/08/19/2016-08-19.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/08/19/2016-08-19.html</guid><pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-08-17]]></title><description><![CDATA[<div class="sect1">
 <h2 id="__">仕事</h2>
 <div class="sectionbody">
 <div class="paragraph">
@@ -946,39 +1015,4 @@
 <p>あときょうは金ローでバケモノの子やるので早く帰る予定。</p>
 </div>
 </div>
-</div>]]></description><link>https://tamakinkun.github.io/2016/07/22/2016-07-22.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/07/22/2016-07-22.html</guid><pubDate>Fri, 22 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-07-21]]></title><description><![CDATA[<div class="sect1">
-<h2 id="__">仕事</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>後輩が退社するということで引き継ぎやらなんやらやる必要が出てきてこれから徐々に忙しくなる可能性。</p>
-</div>
-<div class="paragraph">
-<p>あとはなぜか新規の案件のいくつかでPHPを使うということになっていて、なぜこの時代にPHPを使う必要があるのかという疑問を抱きつついろいろ調べているところ。</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="___2">ゲーム</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>今年の頭くらいにハースストーンやめてからまったくゲームしてなかったけど、秋の試験を受けないことにしたので久しぶりにゲーム開始してみた。</p>
-</div>
-<div class="paragraph">
-<p>世界樹の迷宮５が昨日から体験版ダウンロードできるようになったようなので、2年位まったく電源入れてなかった3DSを今朝充電し、会社に行く前に体験版ダウンロードした！</p>
-</div>
-<div class="paragraph">
-<p>昼休みにちょこっとやってみたけど、犬を呼べるクラスで犬を呼んでみたけどまったく攻撃してくれないんだけどどうしたら…</p>
-</div>
-<div class="paragraph">
-<p>世界樹まったくやったことないけどしばらくやってみておもしろかったら買ってみる方向で。</p>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="___3">いろいろ</h2>
-<div class="sectionbody">
-<div class="paragraph">
-<p>もういい歳なので日々何をやったかとかログ的な感じで書いていくことにした！</p>
-</div>
-</div>
-</div>]]></description><link>https://tamakinkun.github.io/2016/07/21/2016-07-21.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/07/21/2016-07-21.html</guid><pubDate>Thu, 21 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://tamakinkun.github.io/2016/07/22/2016-07-22.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/07/22/2016-07-22.html</guid><pubDate>Fri, 22 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
