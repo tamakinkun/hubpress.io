@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tamakinkun diary]]></title><description><![CDATA[ログ的に書くので時系列で下の行ほど新しい]]></description><link>https://tamakinkun.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 19 Aug 2016 08:19:08 GMT</lastBuildDate><atom:link href="https://tamakinkun.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[2016-08-19]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tamakinkun diary]]></title><description><![CDATA[ログ的に書くので時系列で下の行ほど新しい]]></description><link>https://tamakinkun.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 24 Aug 2016 22:07:06 GMT</lastBuildDate><atom:link href="https://tamakinkun.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[2016-08-23]]></title><description><![CDATA[<div class="sect1">
+<h2 id="__">仕事</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>理解不能な画面が多くてすごい不安な気持ちになりながらHTMLで画面をシコシコ作成する日々。</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___2">ゲーム</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>きのうから将棋を久しぶりに始めてみた。</p>
+</div>
+<div class="paragraph">
+<p>いままで適当に指してたんで、今回は基礎からちゃんとやってみようと思う。</p>
+</div>
+<div class="paragraph">
+<p>とにかくいまのソフトって強くて、昔みたいなアホみたいなソフトだと思ってやってると速攻負かされるというかハム将棋で4枚落ちでも負かされるので、がんばっていきたい。</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___3">いろいろ</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>将棋またやり始めたのでコンピューター将棋やろうかなと思ったんだけど、Windowsじゃないと動かないのが多くて、そうなるとうちはOSXしかないので使えなくてWindowsPC買うかなあと思いつつあるところ。</p>
+</div>
+<div class="paragraph">
+<p>自宅でWindows使わなくなって5年以上経つ気がするんだけど、ジャンルが違うとはいえやっぱゲームするならWindowsいるよね。</p>
+</div>
+</div>
+</div>]]></description><link>https://tamakinkun.github.io/2016/08/25/2016-08-23.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/08/25/2016-08-23.html</guid><pubDate>Thu, 25 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-08-19]]></title><description><![CDATA[<div class="sect1">
 <h2 id="__">仕事</h2>
 <div class="sectionbody">
 <div class="paragraph">
@@ -1015,4 +1047,39 @@
 <p>あときょうは金ローでバケモノの子やるので早く帰る予定。</p>
 </div>
 </div>
-</div>]]></description><link>https://tamakinkun.github.io/2016/07/22/2016-07-22.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/07/22/2016-07-22.html</guid><pubDate>Fri, 22 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://tamakinkun.github.io/2016/07/22/2016-07-22.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/07/22/2016-07-22.html</guid><pubDate>Fri, 22 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[2016-07-21]]></title><description><![CDATA[<div class="sect1">
+<h2 id="__">仕事</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>後輩が退社するということで引き継ぎやらなんやらやる必要が出てきてこれから徐々に忙しくなる可能性。</p>
+</div>
+<div class="paragraph">
+<p>あとはなぜか新規の案件のいくつかでPHPを使うということになっていて、なぜこの時代にPHPを使う必要があるのかという疑問を抱きつついろいろ調べているところ。</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___2">ゲーム</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>今年の頭くらいにハースストーンやめてからまったくゲームしてなかったけど、秋の試験を受けないことにしたので久しぶりにゲーム開始してみた。</p>
+</div>
+<div class="paragraph">
+<p>世界樹の迷宮５が昨日から体験版ダウンロードできるようになったようなので、2年位まったく電源入れてなかった3DSを今朝充電し、会社に行く前に体験版ダウンロードした！</p>
+</div>
+<div class="paragraph">
+<p>昼休みにちょこっとやってみたけど、犬を呼べるクラスで犬を呼んでみたけどまったく攻撃してくれないんだけどどうしたら…</p>
+</div>
+<div class="paragraph">
+<p>世界樹まったくやったことないけどしばらくやってみておもしろかったら買ってみる方向で。</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="___3">いろいろ</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>もういい歳なので日々何をやったかとかログ的な感じで書いていくことにした！</p>
+</div>
+</div>
+</div>]]></description><link>https://tamakinkun.github.io/2016/07/21/2016-07-21.html</link><guid isPermaLink="true">https://tamakinkun.github.io/2016/07/21/2016-07-21.html</guid><pubDate>Thu, 21 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
